@@ -1,4 +1,4 @@
-# -Go_Compiler
+# μGo_Compiler
 μGo: A Simple Go Programming Language
 
 This assignment is to generate Java assembly code (for Java Virtual Machines) of the given μGO
